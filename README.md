@@ -45,3 +45,11 @@ ng add schematics-scss-migrate
 ```bash
 ng add ngx-prettier-git-hooks
 ```
+
+#### eslint
+
+[https://github.com/angular-eslint/angular-eslint](https://github.com/angular-eslint/angular-eslint)
+
+```bash
+ng add @angular-eslint/schematics
+```
