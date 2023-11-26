@@ -40,3 +40,8 @@ ng serve --open
 ```bash
 ng add schematics-scss-migrate
 ```
+#### prettier
+
+```bash
+ng add ngx-prettier-git-hooks
+```
